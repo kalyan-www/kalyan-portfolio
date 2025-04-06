@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kalyan-portfolio/static/css/main.b6373e9e.css",
+    "main.js": "/kalyan-portfolio/static/js/main.eb3a588d.js",
+    "static/js/453.87091046.chunk.js": "/kalyan-portfolio/static/js/453.87091046.chunk.js",
+    "index.html": "/kalyan-portfolio/index.html",
+    "main.b6373e9e.css.map": "/kalyan-portfolio/static/css/main.b6373e9e.css.map",
+    "main.eb3a588d.js.map": "/kalyan-portfolio/static/js/main.eb3a588d.js.map",
+    "453.87091046.chunk.js.map": "/kalyan-portfolio/static/js/453.87091046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6373e9e.css",
+    "static/js/main.eb3a588d.js"
+  ]
+}
