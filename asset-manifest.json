@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/kalyan-portfolio/static/css/main.b6373e9e.css",
-    "main.js": "/kalyan-portfolio/static/js/main.c11ad46c.js",
+    "main.css": "/kalyan-portfolio/static/css/main.10903407.css",
+    "main.js": "/kalyan-portfolio/static/js/main.d73f7c29.js",
     "static/js/453.69f3745b.chunk.js": "/kalyan-portfolio/static/js/453.69f3745b.chunk.js",
+    "static/media/profile.jpg": "/kalyan-portfolio/static/media/profile.2f9b9894042c42004538.jpg",
     "index.html": "/kalyan-portfolio/index.html",
-    "main.b6373e9e.css.map": "/kalyan-portfolio/static/css/main.b6373e9e.css.map",
-    "main.c11ad46c.js.map": "/kalyan-portfolio/static/js/main.c11ad46c.js.map",
+    "main.10903407.css.map": "/kalyan-portfolio/static/css/main.10903407.css.map",
+    "main.d73f7c29.js.map": "/kalyan-portfolio/static/js/main.d73f7c29.js.map",
     "453.69f3745b.chunk.js.map": "/kalyan-portfolio/static/js/453.69f3745b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6373e9e.css",
-    "static/js/main.c11ad46c.js"
+    "static/css/main.10903407.css",
+    "static/js/main.d73f7c29.js"
   ]
 }
